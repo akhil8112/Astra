@@ -1,0 +1,73 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (raw, processed, or intermediate)
+data/
+datasets/
+raw_data/
+processed_data/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.feather
+*.hdf5
+*.pkl
+*.npy
+*.npz
+
+# Model artifacts
+models/
+checkpoints/
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
+*.pb
+*.joblib
+*.pkl
+
+# Logs and temporary files
+logs/
+temp/
+tmp/
+*.log
+*.tmp
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Experiment tracking (e.g., MLflow, TensorBoard)
+mlruns/
+runs/
+tensorboard/
+wandb/
+
+# Caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Configuration files with sensitive information (e.g., API keys)
+config.ini
+secrets.py
+.env
+
+# Output directories
+output/
+results/

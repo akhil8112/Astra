@@ -1,0 +1,20 @@
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node / Frontend
+node_modules/
+build/
+dist/
+.expo/
+
+# ML
+*.ipynb_checkpoints
+
+# OS / IDE specific
+.DS_Store
+.vscode/
+.idea/hand_landmarks.csv 
+venv/ 

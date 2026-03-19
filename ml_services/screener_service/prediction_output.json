@@ -1,0 +1,21 @@
+{
+    "label": "High Risk",
+    "score": 7,
+    "probability": null,
+    "age": 5,
+    "sex": "Male",
+    "ethnicity": "Indian",
+    "answers": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+    ],
+    "note": "Rule-based prediction used due to model error"
+}
