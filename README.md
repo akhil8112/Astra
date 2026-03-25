@@ -91,3 +91,11 @@ The goal of ASTRA is to support parents, caregivers, and educators by providing 
 ---
 
 ## Project Structure
+ASTRA/
+│
+├── frontend/
+├── backend/
+├── ml-model/
+├── cv-module/
+├── database/
+├── README.md
